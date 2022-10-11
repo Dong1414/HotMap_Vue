@@ -5,7 +5,7 @@
       <button >검색</button>
    </div>
    <div class="nowLocalSch">
-      <router-link to="/hotmap">현재 위치에서 검색</router-link>
+      <router-link to="/hotPlace">현재 위치에서 검색</router-link>
       <!-- <button @click="fnNowLocalSch">현재 위치에서 검색</button> -->
       
    </div> 

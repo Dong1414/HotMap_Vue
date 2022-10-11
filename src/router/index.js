@@ -10,9 +10,9 @@ const routes = [
     component: HomeView
   },
   {
-    path: '/hotmap',
-    name: 'hotmap',
-    component: () => import('../views/map/HotMapView.vue')
+    path: '/hotPlace',
+    name: 'hotPlace',
+    component: () => import('../views/map/HotPlaceView.vue')
   }
 ]
 
