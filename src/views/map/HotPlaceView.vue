@@ -1,6 +1,6 @@
 <template>
     <HotMap />
-    <SideBar />
+    <SideBar class="side-bar"/>
 </template>
   
 <script>
